@@ -1,4 +1,4 @@
 # python-demo
 General
 <br>
-Author - Suraj Kushwaha
+Author - Suraj Kushwaha (for python)
